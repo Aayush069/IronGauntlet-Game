@@ -1,0 +1,4 @@
+For controlling the Iron Man character - W,A,S,D Keys
+For controlling the Thanos character - KeyUp,KeyLeft,KeyRight,Keydown Keys
+For firing bullets from Iron Man character - Left Ctrl
+For firing bullets from Thanos character - Right Ctrl
