@@ -1,3 +1,6 @@
+#-----------------------------AUTHOR: Follow on Instagram @_.b_a_a_g_h_i._ -------------------------------#
+
+
 import cx_Freeze
 import sys
 base = None
@@ -34,5 +37,9 @@ cx_Freeze.setup(
     executables = executables
 
     )
+
+
+#-----------------------------AUTHOR: Follow on Instagram @_.b_a_a_g_h_i._ -------------------------------#
+
 
 

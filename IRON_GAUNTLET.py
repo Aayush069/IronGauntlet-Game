@@ -1,3 +1,5 @@
+#-----------------------------AUTHOR: Follow on Instagram @_.b_a_a_g_h_i._ -------------------------------#
+
 import pygame
 
 
@@ -172,3 +174,7 @@ def main():
     main()
 if __name__ == "__main__":
     main()
+
+    
+#-----------------------------AUTHOR: Follow on Instagram @_.b_a_a_g_h_i._ -------------------------------#
+
